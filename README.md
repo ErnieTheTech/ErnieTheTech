@@ -9,3 +9,6 @@ RetroPie Arcade Tabletop *[GitHub](https://erniethetech.github.io/retro_pi/)*.
 ## PC Projects
 
 Virtual Pin *[GitHub](https://erniethetech.github.io/virtual_pin/)*.
+
+## Python Projects
+MetaPhlAn AppImage *[GitHub](https://github.com/Twin-Dragon97/AppImages-Capstone-Project/tree/pyinstaller_working)*.
