@@ -16,6 +16,6 @@ MetaPhlAn AppImage *[GitHub](https://github.com/Twin-Dragon97/AppImages-Capstone
 
 
 ## Organic Projects
-Organic Garden 2020 *[GitHub](https://erniethetech.github.io/Organic_2020/)*.
+Organic Garden 2020 *[GitHub](https://erniethetech.github.io/Organic_2020/)*. <br>
 Carniceria Adventures*[GitHub](https://erniethetech.github.io/Carniceria_Adventures/)*.
 
