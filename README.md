@@ -20,6 +20,9 @@ Ubuntu & X2Go
 ## Python Projects
 MetaPhlAn AppImage
 
+## Web Projects
+Hot Head Fred's *[IT4123 Project](https://ernestogguzman.wixsite.com/it4123)*.
+
 
 ## Organic Projects
 Organic Garden 2020 *[GitHub](https://erniethetech.github.io/Organic_2020/)*. <br>
