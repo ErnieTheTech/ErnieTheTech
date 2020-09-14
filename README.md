@@ -5,7 +5,7 @@ Family Feud Button Box *[Page](https://erniethetech.github.io/lock_out/)*.
 ## Raspberry Pi Projects
 
 RetroPie Arcade Tabletop *[Page](https://erniethetech.github.io/retro_pi/)*.<br>
-Digital Billboard *[Page](https://erniethetech.github.io/dbb/)*.
+Digital Billboard *[Page](https://erniethetech.github.io/dbb/)*.<br>
 Foosball *[GitHub](https://github.com/swehner/foos/)*.
 
 ## VoIP Projects
