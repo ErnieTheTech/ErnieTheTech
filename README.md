@@ -18,7 +18,7 @@ Virtual Pin *[GitHub](https://erniethetech.github.io/virtual_pin/)*.
 Ubuntu & X2Go
 
 ## Python Projects
-MetaPhlAn AppImage
+MetaPhlAn AppImage *[mpa_dir issue](https://www.youtube.com/watch?v=Non8VcuCn1k)*. 
 
 ## Web Projects
 Hot Head Fred's *[IT4123 Project](https://ernestogguzman.wixsite.com/it4123)*.
