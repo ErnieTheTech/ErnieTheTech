@@ -6,7 +6,7 @@ Family Feud Button Box *[Page](https://erniethetech.github.io/lock_out/)*.
 
 RetroPie Arcade Tabletop *[Page](https://erniethetech.github.io/retro_pi/)*.<br>
 Digital Billboard *[Page](https://erniethetech.github.io/dbb/)*.<br>
-Foosball *[GitHub](https://github.com/swehner/foos/)*.*[Page](https://github.com/ErnieTheTech/Foos/)* 
+Foosball *[GitHub](https://github.com/swehner/foos/)*    *[Page](https://github.com/ErnieTheTech/Foos/)* 
 
 ## VoIP Projects
 FreePBX and Cisco 8845 
