@@ -14,6 +14,9 @@ FreePBX and Cisco 8845
 
 Virtual Pin *[GitHub](https://erniethetech.github.io/virtual_pin/)*.
 
+## Linux Projects
+Ubuntu & X2Go
+
 ## Python Projects
 MetaPhlAn AppImage
 
