@@ -20,7 +20,7 @@ Ubuntu & X2Go
 
 ## Network Projects
 Home Network Diagram *[PDF](Home_Network.pdf)*. <br>
-Home Network Outdoor POE Switch
+Home Network Outdoor POE Switch *[Box](box.JPG)*    *[LAN Speed Test](speed_test.JPG)* 
 
 ## Python Projects
 MetaPhlAn AppImage *[mpa_dir issue](https://www.youtube.com/watch?v=Non8VcuCn1k). *[One_Sheet](Capstone.pdf)*.
