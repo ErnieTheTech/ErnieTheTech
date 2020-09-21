@@ -19,7 +19,7 @@ Virtual Pin *[Page](https://erniethetech.github.io/virtual_pin/)*.
 Ubuntu & X2Go
 
 ## Network Projects
-Home Network Diagram *[PDF](Home_Network.pdf)*.
+Home Network Diagram *[PDF](Home_Network.pdf)*. <br>
 Home Network Outdoor POE Switch
 
 ## Python Projects
