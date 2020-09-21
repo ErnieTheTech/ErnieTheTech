@@ -18,6 +18,10 @@ Virtual Pin *[Page](https://erniethetech.github.io/virtual_pin/)*.
 ## Linux Projects
 Ubuntu & X2Go
 
+## Network Projects
+Home Network Diagram *[PDF](Home_Network.pdf)*.
+Home Network Outdoor POE Switch
+
 ## Python Projects
 MetaPhlAn AppImage *[mpa_dir issue](https://www.youtube.com/watch?v=Non8VcuCn1k). *[One_Sheet](Capstone.pdf)*.
 
